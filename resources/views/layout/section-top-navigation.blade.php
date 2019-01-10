@@ -7,7 +7,7 @@
                 <div class="m-stack m-stack--ver m-stack--general">
                     <div class="m-stack__item m-stack__item--middle m-brand__logo">
                         <a href="javascript:;" class="m-brand__logo-wrapper ">
-                           Order Circle
+                           MsnExpenses
                         </a>
                     </div>
                     <div class="m-stack__item m-stack__item--middle m-brand__tools">
